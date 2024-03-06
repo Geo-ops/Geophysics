@@ -1,2 +1,2 @@
 # Geophysics
-Repository for various geophysical processes in python. 
+Repository for various geophysical projects in python. 
